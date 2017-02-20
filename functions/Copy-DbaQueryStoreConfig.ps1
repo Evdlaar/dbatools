@@ -157,4 +157,5 @@ Copy the Query Store configuration of the AdventureWorks database in the ServerA
 		    }
         }
 	}
+
 }
